@@ -1,3 +1,5 @@
 {
-    "IsOpen": "0"
+    "IsOpen": "0",
+    "firstInterval": 180,
+    "otherInterval": 120
 }
