@@ -1,5 +1,6 @@
 {
     "IsOpen": "1",
     "firstInterval": "180",
-    "otherInterval": "120"
+    "otherInterval": "120",
+    "secondStarUpAD": "1"
 }
